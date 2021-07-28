@@ -1,0 +1,22 @@
+#main-icon{
+    width: 291px;
+}
+.section{
+    margin-top: 50px;
+}
+.section-main{
+    padding-bottom: 30px;
+}
+.main-header{
+    background-color: #FFF9F4;
+}
+#feature_icon{
+    width: 78px;
+    height: 82px;
+}
+/* responsive */
+@media screen (max-width:768px) {
+    .special-row{
+        text-align: center;
+    }
+}
